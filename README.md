@@ -29,7 +29,7 @@ Save the code as main.py and bmp.py files into the raspberry pi pico.
 <br>
 <br>
 
-## Class APDS
+## Class BMP
 ### Constructor
     class bmp.BMP( [i2c_addr = __BMP180_ADDR],
                    [i2c_id = 0],
